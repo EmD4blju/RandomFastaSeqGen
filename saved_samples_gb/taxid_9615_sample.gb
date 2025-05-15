@@ -1,0 +1,443 @@
+LOCUS       PQ533265                1679 bp    mRNA    linear   MAM 12-MAY-2025
+DEFINITION  Canis lupus familiaris cytochrome P450 3A293 (CYP3A293) mRNA,
+            complete cds.
+ACCESSION   PQ533265
+VERSION     PQ533265.1
+KEYWORDS    .
+SOURCE      Canis lupus familiaris (dog)
+  ORGANISM  Canis lupus familiaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Canidae;
+            Canis.
+REFERENCE   1  (bases 1 to 1679)
+  AUTHORS   Uno,Y., Ushirozako,G., Murayama,N. and Yamazaki,H.
+  TITLE     Novel dog hepatic cytochrome P450 3A293 oxidizes endogenous
+            testosterone and estradiol
+  JOURNAL   Biochem Pharmacol 235, 116846 (2025)
+   PUBMED   40032162
+REFERENCE   2  (bases 1 to 1679)
+  AUTHORS   Uno,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-OCT-2024) Joint Faculty of Veterinary Medicine,
+            Kagoshima University, 1-21-24 Korimoto, Kagoshima-city, Kagoshima
+            890-0065, Japan
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1679
+                     /organism="Canis lupus familiaris"
+                     /mol_type="mRNA"
+                     /isolate="dCYP3A293"
+                     /sub_species="familiaris"
+                     /db_xref="taxon:9615"
+     gene            1..1679
+                     /gene="CYP3A293"
+     CDS             41..1552
+                     /gene="CYP3A293"
+                     /codon_start=1
+                     /product="cytochrome P450 3A293"
+                     /protein_id="XJO69481.1"
+                     /translation="MDLIPSFSTETWLLLATSLVLFYLYGTYTHGLFKKLGIPGPTPL
+                     PFLGTVLGYRNGFCDFDEKCFRKYGRMWGFYDGRQPVLAIMDPDMIKTVLVKECYSVF
+                     TNRRSFGPVGFMKSAITVSEDEEWKRIRTLLSPTFTSGKLKEMFPIIGQYGDMLVRNL
+                     RKEAEKGKAISLKDIFGAYSMDVITSTSFGVNIDSLNNPQDPFVENAKKLLKFDFPDP
+                     FLLSIILFPFLTPLYEMLNIWLFPKKITDFFTKSVKRMKESRLKDKQKHRVDFLQLMI
+                     NSQNSKEMNTHKALSDLELVAQSIIFIFGGYETTSTSLCLLMYELATQPDVQQKLQKE
+                     IDATFPNKAAPTYEALVQMEYLDMVLNESLRLYPIAGRLERVCKKDVEISGVFIPKGT
+                     LVVVPTFTLHRDLDLWPEPEEFQPERFSKKNKDSINPYTYLPFGTGPRNCLGMRFAIM
+                     NMKLALIKVLQNFSFKPCKETQIPLKLSSQGLIRPEEPIILNVEPRDGSVRGA"
+ORIGIN      
+        1 ctgaacaaaa gtagaggaga ctcacagaga gaaagtggcc atggacctga tcccaagctt
+       61 ttccacagaa acctggcttc ttctggccac cagcctggtg ctgttctacc tctatgggac
+      121 ctacacgcat ggacttttta agaagctggg aattcctggg ccaacacctc tgcctttttt
+      181 gggaactgtt cttggctacc gtaatggttt ttgtgatttt gatgaaaaat gttttagaaa
+      241 gtatggaaga atgtgggggt tttatgatgg gcgacagccc gtgttggcta tcatggatcc
+      301 agacatgatc aaaacagtgc tagttaaaga atgttattct gtcttcacaa accgacggtc
+      361 ctttggtcca gtgggattta tgaaaagtgc catcactgtg tctgaggatg aagaatggaa
+      421 gagaatacga acattgctgt ctccaacttt caccagcgga aagctcaagg agatgtttcc
+      481 catcattggc cagtatggag atatgttggt gaggaacctg aggaaggagg cagagaaagg
+      541 caaagccatc agcttgaaag acatctttgg agcctacagc atggatgtga tcaccagcac
+      601 atcgtttgga gtgaacattg attccctcaa caacccacaa gatccgtttg tggaaaatgc
+      661 caagaagctc ttaaaatttg atttccctga tccattttta ctctccataa tattgtttcc
+      721 attccttact ccactatatg aaatgttaaa tatctggcta tttccaaaga aaattactga
+      781 ttttttcaca aagtctgtaa aaaggatgaa ggaaagtcgc ctcaaagata aacaaaagca
+      841 ccgagtcgat tttctgcaac tgatgattaa ctcccagaat tctaaagaaa tgaataccca
+      901 caaagctctg tctgatctgg agcttgttgc tcaatctatt atctttattt ttggtggcta
+      961 tgagaccact agtacttctc tctgcctcct tatgtatgaa ttggccactc agcctgatgt
+     1021 ccagcagaaa ctgcaaaagg agattgatgc gactttcccc aataaggcag cacccactta
+     1081 cgaggccctt gtacagatgg agtatctgga catggtgttg aatgaaagtc tcagattata
+     1141 cccaattgct ggtagactag agagggtctg taagaaagat gtggaaatca gtggtgtgtt
+     1201 cattcccaaa gggacattgg tggtggtgcc aacatttact cttcaccgag acttggatct
+     1261 ctggccagag cctgaggagt tccaacctga aaggttcagt aagaagaaca aggacagcat
+     1321 aaatccttat acatacctgc cctttggaac tggaccccga aactgccttg gaatgagatt
+     1381 cgcaatcatg aacatgaaac ttgccctcat caaagtcctg cagaacttct ccttcaaacc
+     1441 ttgtaaagaa acacagattc ccctgaaatt aagttctcaa gggttaattc gaccagaaga
+     1501 acccattatt ctcaacgttg agccaagaga tgggagtgtg cgtggagcct gaatttccct
+     1561 aaggacttcc cttttgttct tcgagaagct atatcccaga acaccacaga cctcaatttc
+     1621 ctatgtgagt aaaacccaga aatgaagatg ggcttcattt actgcccatg acggatgac
+//
+
+LOCUS       NM_001130836             846 bp    mRNA    linear   MAM 10-MAY-2025
+DEFINITION  Canis lupus familiaris TNF superfamily member 10 (TNFSF10), mRNA.
+ACCESSION   NM_001130836
+VERSION     NM_001130836.1
+KEYWORDS    RefSeq.
+SOURCE      Canis lupus familiaris (dog)
+  ORGANISM  Canis lupus familiaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Canidae;
+            Canis.
+REFERENCE   1  (bases 1 to 846)
+  AUTHORS   Premzl,M.
+  TITLE     Comparative genomic analysis of eutherian tumor necrosis factor
+            ligand genes
+  JOURNAL   Immunogenetics 68 (2), 125-132 (2016)
+   PUBMED   26646413
+REFERENCE   2  (bases 1 to 846)
+  AUTHORS   Rong,S., Cai,J.H. and Andrews,J.
+  TITLE     Cloning and apoptosis-inducing activities of canine and feline
+            TRAIL
+  JOURNAL   Mol Cancer Ther 7 (7), 2181-2191 (2008)
+   PUBMED   18645027
+  REMARK    GeneRIF: Both canine and feline TRAIL full-length genes were
+            cloned.
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from EU036633.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: EU036633.1, DN266414.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN11526769 [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..846
+                     /organism="Canis lupus familiaris"
+                     /mol_type="mRNA"
+                     /sub_species="familiaris"
+                     /db_xref="taxon:9615"
+                     /chromosome="34"
+                     /map="34"
+     gene            1..846
+                     /gene="TNFSF10"
+                     /gene_synonym="TNLG6A; TRAIL"
+                     /note="TNF superfamily member 10"
+                     /db_xref="GeneID:100174780"
+                     /db_xref="RGD:12252219"
+                     /db_xref="VGNC:VGNC:47669"
+     CDS             1..846
+                     /gene="TNFSF10"
+                     /gene_synonym="TNLG6A; TRAIL"
+                     /note="TNF-related apoptosis inducing ligand; tumor
+                     necrosis factor (ligand) superfamily, member 10; tumor
+                     necrosis factor superfamily member 10; tumor necrosis
+                     factor ligand 6A"
+                     /codon_start=1
+                     /product="tumor necrosis factor ligand superfamily member
+                     10"
+                     /protein_id="NP_001124308.1"
+                     /db_xref="GeneID:100174780"
+                     /db_xref="RGD:12252219"
+                     /db_xref="VGNC:VGNC:47669"
+                     /translation="MQAPGGPSLGLTCVLILIFTVLLQSLCVAVTYMYFTRELKQMQD
+                     KYSQSGIACFLKEDDIPWDPSDEESMNNPCWQVKWQLRQFVRKMILKTYEETIPTAPE
+                     KQLNIPYVVSDRGSQRVAAHITGTSRRSMFPIPSSKNDKALGHKINSWDSTRKGHSFL
+                     NNLHLRNGELVIHQRGFYYIYSQTYFRFQEPEEIPTGQNRKRNKQMVQYIYKHTSYPD
+                     PILLMKSARNSCWSKDSEYGLYSIYQGGIFELKENDRIFVSVSNEQLIDMDQEASFFG
+                     AFLIG"
+     exon            1..123
+                     /gene="TNFSF10"
+                     /gene_synonym="TNLG6A; TRAIL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            124..261
+                     /gene="TNFSF10"
+                     /gene_synonym="TNLG6A; TRAIL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            262..304
+                     /gene="TNFSF10"
+                     /gene_synonym="TNLG6A; TRAIL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            305..406
+                     /gene="TNFSF10"
+                     /gene_synonym="TNLG6A; TRAIL"
+                     /inference="alignment:Splign:2.1.0"
+     exon            407..846
+                     /gene="TNFSF10"
+                     /gene_synonym="TNLG6A; TRAIL"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 atgcaggccc cggggggccc cagcctcggg ctgacgtgcg tgctgatcct catcttcact
+       61 gtgctgctcc agtccctctg cgtggccgtc acctacatgt acttcaccag ggagctgaag
+      121 cagatgcagg acaagtactc ccaaagtggc atcgcttgtt tcttaaagga agatgatatc
+      181 ccctgggacc ccagtgatga agagagtatg aacaacccct gctggcaagt gaagtggcaa
+      241 ctccgccagt ttgttagaaa gatgattttg aaaacctatg aggaaaccat tcctacagct
+      301 ccagaaaagc agctaaatat tccttacgta gtaagcgacc gaggttctca gagagtagct
+      361 gctcacataa ctggaaccag tcggagaagc atgtttccaa ttccaagctc caagaatgat
+      421 aaagctttgg gccacaaaat aaactcctgg gattccacaa gaaaaggaca ttcattcttg
+      481 aataatttgc acttgaggaa cggagagctg gttatccatc aaagggggtt ttattacatc
+      541 tattcccaaa catactttcg atttcaggaa cctgaggaaa ttccaacagg acagaacaga
+      601 aagagaaaca aacaaatggt ccaatatatt tacaaacaca cgagttatcc ggaccctata
+      661 ctgctgatga aaagtgctag aaatagttgt tggtctaaag attctgaata tggactctat
+      721 tccatctatc aaggtgggat atttgagctt aaggaaaacg atagaatttt tgtctctgta
+      781 tctaacgagc aattgattga catggaccaa gaagccagtt ttttcggggc ctttttaatc
+      841 ggctaa
+//
+
+LOCUS       PQ533269                1440 bp    mRNA    linear   MAM 09-MAY-2025
+DEFINITION  Canis lupus familiaris cytochrome P450 4F3a (CYP4F3a) mRNA,
+            complete cds.
+ACCESSION   PQ533269
+VERSION     PQ533269.1
+KEYWORDS    .
+SOURCE      Canis lupus familiaris (dog)
+  ORGANISM  Canis lupus familiaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Canidae;
+            Canis.
+REFERENCE   1  (bases 1 to 1440)
+  AUTHORS   Uno,Y., Kawabata,I., Ushirozako,G., Tsukiyama-Kohara,K.,
+            Ishizuka,M., Mizukawa,H., Murayama,N. and Yamazaki,H.
+  TITLE     Exploration of functional cytochrome P450 4F enzymes in liver,
+            intestine, and kidney from dogs, cats, pigs, and tree shrews and
+            comparison of their metabolic capacities with human P450 4F2 and
+            4F12
+  JOURNAL   Biochem Pharmacol 236, 116894 (2025)
+   PUBMED   40154889
+REFERENCE   2  (bases 1 to 1440)
+  AUTHORS   Uno,Y.
+  TITLE     Identification and characterization of cytochromes P450 in dogs and
+            cats
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1440)
+  AUTHORS   Uno,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-OCT-2024) Joint Faculty of Veterinary Medicine,
+            Kagoshima University, 1-21-24 Korimoto, Kagoshima-city, Kagoshima
+            890-0065, Japan
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1440
+                     /organism="Canis lupus familiaris"
+                     /mol_type="mRNA"
+                     /isolate="dCYP4F3a"
+                     /sub_species="familiaris"
+                     /db_xref="taxon:9615"
+     gene            1..1440
+                     /gene="CYP4F3a"
+     CDS             1..1401
+                     /gene="CYP4F3a"
+                     /codon_start=1
+                     /product="cytochrome P450 4F3a"
+                     /protein_id="XJO69485.1"
+                     /translation="MLQLSLSWLGLGQLAASPWVLLLLVGATWLLTRVLAWSYSFYDI
+                     RRRLQCFPQPPKRNWFWGHVGLIQSSEEGLLYTQELASTYGDVCCWWVGPWHAVIRIF
+                     HPTYIKPVLFSSAAIAPKDMVFYSLLKPWLGDGLLLSAGDKWSSHRRMLTPAFHFNIL
+                     KPYVKIFNYSTNVMHAKWKRLVSEGSTHLDMFEHISLMTLDSLQKCVFSFDSNCQEKP
+                     SEYIAAILELSALVAKRHQQILHMDFLYYLTPDGQRFRRACRLVHNFTDAVIQERRRT
+                     LPVQGVDDFLMTKAKSKTLDFIDVLLLSKDEDGKQLSDKDIRAEADTFMFEGHDTTAS
+                     GLSWVLFNLAKHPEYQERCRQEVQELLRDREPQEIEWDDLAKLPFLTMCIKESLRLHP
+                     PVTVISRCCTQDIVLSDGRVIPKGVTCLISIFGTHHNPSVWPDPEVYNPLRFDPENIK
+                     ERSPLTALPAHPRSPS"
+ORIGIN      
+        1 atgttgcaac tgagcctgtc ctggctagga ctggggcagc ttgcagcctc cccatgggtg
+       61 ctcctgctgc tggtgggggc cacttggctt ctgacccggg tcctggcctg gagctacagc
+      121 ttctatgata tccgtcgccg cctccagtgt ttcccacagc ctccaaagcg caactggttt
+      181 tggggtcacg tgggcctgat tcagagctca gaggaaggtc tcctgtacac acaggagctg
+      241 gcaagcacct atggggatgt gtgctgctgg tgggtgggcc cttggcatgc agtcatccgc
+      301 atcttccacc ccacctacat caagcctgtg ctcttttcat cagctgccat tgcgcccaag
+      361 gacatggtct tctatagctt actgaagccc tggctggggg atgggcttct gctgagtgct
+      421 ggtgacaaat ggagcagcca ccgccgcatg ctgacacctg ccttccactt caacatcctg
+      481 aagccctatg tgaagatttt caattacagc acgaatgtca tgcatgccaa gtggaagcgc
+      541 ctggtgtcag aaggcagcac ccatctggac atgtttgaac acatcagcct catgaccctg
+      601 gacagtctgc agaaatgtgt cttcagtttt gacagcaatt gccaggagaa gcctagtgaa
+      661 tatattgctg ccatattaga actcagtgcc cttgtggcaa aacggcatca gcagatcttg
+      721 cacatggact tcctgtacta cctcactcca gacggacagc gcttccgcag agcctgccgc
+      781 ctggtgcaca acttcacaga tgctgtcatt caggaacggc gccgcactct cccagttcag
+      841 ggtgttgatg acttcctcat gaccaaggct aagagtaaga ctttggactt cattgatgtg
+      901 ctcctgctgt ccaaggatga agatggaaag caattgtcag acaaggatat ccgagctgaa
+      961 gctgacacct ttatgtttga gggccatgac accacagcca gtggcctctc ctgggtcctg
+     1021 ttcaacctgg caaagcaccc agaataccag gagcgctgcc ggcaggaggt gcaagagctc
+     1081 ctgagggacc gtgagcctca agagattgaa tgggacgacc tggccaagtt gcccttcttg
+     1141 accatgtgca tcaaggagag tctgcggctg cacccacctg tcacagtcat ctcccgctgc
+     1201 tgcacccagg acattgtgct ctcagatggc cgggtcatcc ccaaaggtgt tacctgcctc
+     1261 attagtattt ttgggaccca ccacaaccca tccgtgtggc cagaccctga ggtatacaat
+     1321 cccttgcgct ttgacccaga aaacatcaag gagaggtctc ccctgacagc ccttccagct
+     1381 catcccagat ccccgtcctg atggcaggtt ctcctagaat caaacccgtg gttactccag
+//
+
+LOCUS       PQ533268                1469 bp    mRNA    linear   MAM 09-MAY-2025
+DEFINITION  Canis lupus familiaris cytochrome P450 4F3b (CYP4F3b) mRNA,
+            complete cds.
+ACCESSION   PQ533268
+VERSION     PQ533268.1
+KEYWORDS    .
+SOURCE      Canis lupus familiaris (dog)
+  ORGANISM  Canis lupus familiaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Canidae;
+            Canis.
+REFERENCE   1  (bases 1 to 1469)
+  AUTHORS   Uno,Y., Kawabata,I., Ushirozako,G., Tsukiyama-Kohara,K.,
+            Ishizuka,M., Mizukawa,H., Murayama,N. and Yamazaki,H.
+  TITLE     Exploration of functional cytochrome P450 4F enzymes in liver,
+            intestine, and kidney from dogs, cats, pigs, and tree shrews and
+            comparison of their metabolic capacities with human P450 4F2 and
+            4F12
+  JOURNAL   Biochem Pharmacol 236, 116894 (2025)
+   PUBMED   40154889
+REFERENCE   2  (bases 1 to 1469)
+  AUTHORS   Uno,Y.
+  TITLE     Identification and characterization of cytochromes P450 in dogs and
+            cats
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1469)
+  AUTHORS   Uno,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-OCT-2024) Joint Faculty of Veterinary Medicine,
+            Kagoshima University, 1-21-24 Korimoto, Kagoshima-city, Kagoshima
+            890-0065, Japan
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1469
+                     /organism="Canis lupus familiaris"
+                     /mol_type="mRNA"
+                     /isolate="dCYP4F3b"
+                     /sub_species="familiaris"
+                     /db_xref="taxon:9615"
+     gene            1..1469
+                     /gene="CYP4F3b"
+     CDS             1..1395
+                     /gene="CYP4F3b"
+                     /codon_start=1
+                     /product="cytochrome P450 4F3b"
+                     /protein_id="XJO69484.1"
+                     /translation="MLQLSLSWLGLGQLAASPWVLLLLVGATWLLTRVLAWSYSFYDI
+                     RRRLQCFPQPPKRNWFWGHVGLAPPSEQGLRVIIQLVATYTQGFKMWMGPIKPLVVLC
+                     HPDLIRNITSASAAIAPKDMVFYSLLKPWLGDGLLLSAGDKWSSHRRMLTPAFHFNIL
+                     KPYVKIFNYSTNVMHAKWKRLVSEGSTHLDMFEHISLMTLDSLQKCVFSFDSNCQEKP
+                     SEYIAAILELSALVAKRHQQILHMDFLYYLTPDGQRFRRACRLVHNFTDAVIQERRRT
+                     LPVQGVDDFLMTKAKSKTLDFIDVLLLSKDEDGKQLSDKDIRAEADTFMFEGHDTTAS
+                     GLSWVLFNLAKHPEYQERCRQEVQELLRDREPQEIEWDDLAKLPFLTMCIKESLRLHP
+                     PVTVISRCCTQDIVLSDGRVIPKGVTCLISIFGTHHNPSVWPDPEVYNPLRFDPENIK
+                     ERSPLAFIPFSAGP"
+ORIGIN      
+        1 atgttgcaac tgagcctgtc ctggctagga ctggggcagc ttgcagcctc cccatgggtg
+       61 ctcctgctgc tggtgggggc cacttggctt ctgacccggg tcctggcctg gagctacagc
+      121 ttctatgata tccgtcgccg cctccagtgt ttcccacagc ctccaaagcg caactggttt
+      181 tggggtcacg tgggcctggc tcccccctcg gagcagggct tgagggtcat aattcagctg
+      241 gtggccacct atacccaggg gtttaagatg tggatgggcc ccatcaagcc ccttgttgtt
+      301 ttgtgccacc ccgacttgat ccggaatatc accagtgcct cagctgccat tgcgcccaag
+      361 gacatggtct tctatagctt actgaagccc tggctggggg atgggcttct gctgagtgct
+      421 ggtgacaaat ggagcagcca ccgccgcatg ctgacacctg ccttccactt caacatcctg
+      481 aagccctatg tgaagatttt caattacagc acgaatgtca tgcatgccaa gtggaagcgc
+      541 ctggtgtcag agggcagcac ccatctggac atgtttgaac acatcagcct catgaccctg
+      601 gacagtctgc agaaatgtgt cttcagtttt gacagcaatt gccaggagaa gcctagtgaa
+      661 tatattgctg ccatattaga actcagtgcc cttgtggcaa aacggcatca gcagatcttg
+      721 cacatggact tcctgtacta cctcactcca gacggacagc gcttccgcag agcctgccgc
+      781 ctggtgcaca acttcacaga tgctgtcatt caggaacggc gccgcactct cccagttcag
+      841 ggtgttgatg acttcctcat gaccaaggct aagagtaaga ctttggactt cattgatgtg
+      901 ctcctgctgt ccaaggatga agatggaaag caattgtcag acaaggatat ccgagctgaa
+      961 gctgacacct ttatgtttga gggccatgac accacagcca gtggcctctc ctgggtcctg
+     1021 ttcaacctgg caaagcaccc agaataccag gagcgctgcc ggcaggaggt gcaagagctc
+     1081 ctgagggacc gtgagcctca agagattgaa tgggacgacc tggccaagtt gcccttcttg
+     1141 accatgtgca tcaaggagag tctgcggctg cacccacctg tcacagtcat ctcccgctgc
+     1201 tgcacccagg acattgtgct ctcagatggc cgggtcatcc ccaaaggtgt tacctgcctc
+     1261 attagtattt ttgggaccca ccacaaccca tccgtgtggc cagaccctga ggtatacaat
+     1321 cccttgcgct ttgacccaga aaacatcaag gagaggtctc ccctggcttt tattcccttc
+     1381 tctgccgggc cctgacagcc cttcccgctc atcccagatc cccgtcctga tggcaggttc
+     1441 tcctagaatc aaacccgtgg ttactccag
+//
+
+LOCUS       PQ533267                1633 bp    mRNA    linear   MAM 09-MAY-2025
+DEFINITION  Canis lupus familiaris cytochrome P450 4F140 (CYP4F140) mRNA,
+            complete cds.
+ACCESSION   PQ533267
+VERSION     PQ533267.1
+KEYWORDS    .
+SOURCE      Canis lupus familiaris (dog)
+  ORGANISM  Canis lupus familiaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Canidae;
+            Canis.
+REFERENCE   1  (bases 1 to 1633)
+  AUTHORS   Uno,Y., Kawabata,I., Ushirozako,G., Tsukiyama-Kohara,K.,
+            Ishizuka,M., Mizukawa,H., Murayama,N. and Yamazaki,H.
+  TITLE     Exploration of functional cytochrome P450 4F enzymes in liver,
+            intestine, and kidney from dogs, cats, pigs, and tree shrews and
+            comparison of their metabolic capacities with human P450 4F2 and
+            4F12
+  JOURNAL   Biochem Pharmacol 236, 116894 (2025)
+   PUBMED   40154889
+REFERENCE   2  (bases 1 to 1633)
+  AUTHORS   Uno,Y.
+  TITLE     Identification and characterization of cytochromes P450 in dogs and
+            cats
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1633)
+  AUTHORS   Uno,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-OCT-2024) Joint Faculty of Veterinary Medicine,
+            Kagoshima University, 1-21-24 Korimoto, Kagoshima-city, Kagoshima
+            890-0065, Japan
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1633
+                     /organism="Canis lupus familiaris"
+                     /mol_type="mRNA"
+                     /isolate="dCYP4F140"
+                     /sub_species="familiaris"
+                     /db_xref="taxon:9615"
+     gene            1..1633
+                     /gene="CYP4F140"
+     CDS             1..1563
+                     /gene="CYP4F140"
+                     /codon_start=1
+                     /product="cytochrome P450 4F140"
+                     /protein_id="XJO69483.1"
+                     /translation="MLQVSLSWLGLGQLAASPWVLLLLAGATWLLARVLTWSYSFYDN
+                     CCRLRCFPQPPKRNWFWGHLGLVKSNEEGLRMIEDLGHYFRDVHLWWIGPFYPVLRLV
+                     HPKFVAPLLQAPATIVPKDMFFYNFLKPWLGDGLLLSAGDKWSHHRRLLTPAFHFEIL
+                     KSYVKIFNRSADIMHAKWKRLVSEGSTHLDMFEHISLMTLDSLQKCVFSFDSNCQESP
+                     SEYIAAILELSALVVKRNEQVLLYLDFLYNLSPDGRRFRRACELVHNFTDAIIQERRH
+                     TLISRGSCDFLKSKTMDFIDVLLLAKDEAGKQLSDEDIRAEADTFMFEGHDTTASGLS
+                     WVLFNLAKHPEYQERCRQEVQELLRDREPQEIEWDDLVQLPFLTMCIKESLRLHPPVT
+                     VIARRCTQDIVLPDGRVIPKGNNCVLSIFGIHHNPSVWPDPEVYNPLRFDPEIPQKRS
+                     PLAFIPFSAGPRNCIGQAFAMSEMKVVLALTLLRFRVLPHEEEPRRKPELILRAEGGL
+                     WLRVEPLSARPQ"
+ORIGIN      
+        1 atgttgcagg tgagcctgtc ctggctggga ctggggcagc ttgcagcctc cccatgggtg
+       61 ctcctgctgc tggctggcgc cacctggctc ctggcccggg tcctgacctg gagctacagc
+      121 ttctatgaca actgctgccg cctccggtgt ttcccacagc ctccgaagcg caactggttt
+      181 tggggtcacc tgggcctggt gaagagcaat gaggaaggct tgaggatgat agaggatctg
+      241 ggccactact tccgtgatgt tcatctctgg tggatagggc ctttctaccc tgtactgcgg
+      301 ctcgtccatc ctaagtttgt tgcccccttg ctccaggccc cagccaccat cgtacccaag
+      361 gacatgtttt tctacaactt cctgaagccc tggctggggg atgggctcct gctgagtgct
+      421 ggtgacaagt ggagccacca ccgccgcttg ctgacacctg ccttccactt tgaaatcctg
+      481 aaatcttatg tgaagatttt caacagaagt gcagacatca tgcatgccaa gtggaagcgc
+      541 ctggtgtcag aaggcagcac ccatctagac atgtttgagc acatcagcct catgaccctg
+      601 gacagtctgc agaaatgtgt cttcagtttt gacagcaatt gccaggagag tcccagtgaa
+      661 tatattgctg ccatcttgga gctcagtgcc cttgtggtga aacggaatga gcaggtcctc
+      721 ctgtacttgg acttcctgta caatctcagc cctgatgggc ggcgcttccg cagggcctgc
+      781 gaactggtgc acaacttcac agatgctatc atccaggagc ggcgccatac cctcattagc
+      841 agaggctcct gtgacttcct taagtccaaa actatggact tcattgatgt cctcctgctg
+      901 gccaaggatg aagcgggaaa acaattgtca gatgaggata ttcgagctga agctgacacc
+      961 ttcatgtttg agggccatga caccacagcc agtggcctct cctgggtcct gttcaacctt
+     1021 gcaaaacacc cagaatacca ggagcgctgc cggcaggagg tgcaagagct cctgagggac
+     1081 cgtgagcctc aagagattga atgggacgac ctggtccagt tgcccttcct gaccatgtgc
+     1141 atcaaggaga gtctgcggct gcacccacct gtcacagtca ttgcccgccg atgtacccag
+     1201 gacatcgtgc tccccgatgg ccgggttatc cccaaaggga acaactgtgt cctcagcata
+     1261 tttgggattc atcacaaccc atcagtctgg ccggatcctg aggtatacaa tcccttgcgc
+     1321 tttgacccag aaatccccca gaagaggtct cccctggctt ttattccctt ctctgctggg
+     1381 cccaggaact gcatcgggca ggcgttcgcc atgagcgaga tgaaggtggt gctggcgctc
+     1441 acgctgctgc gcttcagggt cctgccccac gaggaggagc cgcgcaggaa gccggagctc
+     1501 atcctgcgcg ccgagggcgg actttggctg cgcgtggagc cgctgagcgc gcgcccccag
+     1561 tgacccgcca gctcccggct gggcccagcc cgacccgcgc gcctcgcttt gcaggagagg
+     1621 gaccagcgtt aag
+//
+
